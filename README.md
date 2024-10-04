@@ -1,4 +1,4 @@
-# ![Reader View icon](https://github.com/Salvora/force-reader-view/blob/main/icons/reader-mode-48.png) Activate Reader View
+# ![Reader View icon](https://github.com/Salvora/force-reader-view/blob/main/icons/reader-mode-48.png) Force Reader View
 
 by Salvora
 
