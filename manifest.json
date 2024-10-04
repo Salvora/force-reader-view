@@ -8,7 +8,7 @@
     "name": "Salvora"
   },
   "default_locale": "en",
-  "applications": {
+  "browser_specific_settings": {
     "gecko": {
       "id": "@forcereaderview",
       "strict_min_version": "130.0.1"
