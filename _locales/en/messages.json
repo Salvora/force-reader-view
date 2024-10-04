@@ -1,0 +1,21 @@
+{
+  "extensionName": {
+    "message": "Force Reader View",
+    "description": "Name of the extension."
+  },
+  
+  "extensionShortName": {
+    "message": "Reader View",
+    "description": "Short name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "This add-on adds a button to force activate the reader mode.",
+    "description": "Description of the extension."
+  },
+
+  "browserActionTitle": {
+    "message": "Toggle Reader View",
+    "description": "The title being shown when hovering over the extension's button."
+  }
+}
