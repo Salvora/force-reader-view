@@ -2,9 +2,9 @@
 
 by Salvora
 
-> This add-on adds a button to the toolbar and creates a keyboard shortcut to forcifully activate reader view on Firefox.
+> This add-on adds a button to the toolbar and creates a keyboard shortcut to forcefully activate reader view on Firefox.
 
-[![Get the add-on]](https://addons.mozilla.org/firefox/addon/force-reader-view/)
+[![Get the add-on]](https://addons.mozilla.org/en-US/firefox/addon/force-reader-view/)
 
 ## Description
 

@@ -11,7 +11,7 @@
   "browser_specific_settings": {
     "gecko": {
       "id": "@forcereaderview",
-      "strict_min_version": "130.0.1"
+      "strict_min_version": "130.0"
     }
   },
   "icons": {
