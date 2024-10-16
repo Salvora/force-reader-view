@@ -4,7 +4,7 @@
 > Adds a button to the toolbar
 > Creates a keyboard shortcut.
 
-# [![Get the add-on]](https://addons.mozilla.org/en-US/firefox/addon/force-reader-view/)
+[Get the add-on](https://addons.mozilla.org/en-US/firefox/addon/force-reader-view/)
 
 ## Description
 
