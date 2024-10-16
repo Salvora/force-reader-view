@@ -1,8 +1,8 @@
 # ![Reader View icon](https://github.com/Salvora/force-reader-view/blob/main/force-reader-view/icons/reader-mode-48.png) Force Reader View
 
-> This add-on forcibly activates the reader mode when engaged.
-> Adds a button to the toolbar
-> Creates a keyboard shortcut.
+> - This add-on forcibly activates the reader mode when engaged.
+> - Adds a button to the toolbar
+> - Creates a keyboard shortcut.
 
 [Get the add-on](https://addons.mozilla.org/en-US/firefox/addon/force-reader-view/)
 
